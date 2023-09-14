@@ -7,3 +7,12 @@ CraxsRAT V6.7-Lifetime | Unlimited PC</br>
 ![4](https://github.com/techdev5203/craxs-rat-6.7-free/assets/81573530/9660d9ea-cdc4-4849-ad56-22ce5a8ca0bc)</br>
 ![5](https://github.com/techdev5203/craxs-rat-6.7-free/assets/81573530/2b3d4cb7-21a7-450c-a901-52a3b6bea6e5)</br>
 ![6](https://github.com/techdev5203/craxs-rat-6.7-free/assets/81573530/b69b467e-a84d-4472-99b5-f3c2e5494291)</br>
+<h2>Videos Include (English & Hindi)</h2>
+<ul>
+  <li>How To Setup & Login Craxsrat 6.7 (Out-of-network)</li>
+<li>How To Create & Configure Windows RDP.</li>
+<li>How To Inject Craxsrat Apk in Other Apk. (Fixed)</li>
+<li>How To Use Dropper Feature Perfectly</li>
+<li>How To Make Your Custom App in Craxsrat</li>
+<li>How To Bypass Craxsrat Google Play & Antivirus</li>
+</ul>
